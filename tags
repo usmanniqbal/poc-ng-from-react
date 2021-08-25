@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+App	src/App.js	/^function App() {$/;"	F
+Bar	src/Bar.js	/^function Bar() {$/;"	F
+Foo	src/Foo.js	/^function Foo() {$/;"	F
+Router	src/App.js	/^import { BrowserRouter as Router, Link, Route, Switch } from "react-router-dom";$/;"	I
+TodoCtrl	src/Bridge.js	/^    function TodoCtrl($scope) {$/;"	F
+__html	src/Bridge.js	/^            __html: template,$/;"	P
+aboutState	src/Bridge.js	/^    const aboutState = {$/;"	O
+addTodo	src/Bridge.js	/^      $scope.addTodo = function () {$/;"	M
+archive	src/Bridge.js	/^      $scope.archive = function () {$/;"	M
+count	src/Bridge.js	/^        var count = 0;$/;"	V
+effect	src/Bridge.js	/^    function effect() {$/;"	F
+helloState	src/Bridge.js	/^    const helloState = {$/;"	O
+init	src/Bridge.js	/^  const init = (name) => {$/;"	F
+name	src/Bridge.js	/^      name: "about",$/;"	P
+name	src/Bridge.js	/^      name: "hello",$/;"	P
+remaining	src/Bridge.js	/^      $scope.remaining = function () {$/;"	M
+template	src/Bridge.js	/^      template: "<h3>another route using ui-router<\/h3>",$/;"	P
+template	src/Bridge.js	/^      template: "<h3>hello world from ui router!<\/h3>",$/;"	P
+url	src/Bridge.js	/^      url: "\/about",$/;"	P
+url	src/Bridge.js	/^      url: "\/hello",$/;"	P
+useLegacyApp	src/Bridge.js	/^const useLegacyApp = (ref) => {$/;"	F
